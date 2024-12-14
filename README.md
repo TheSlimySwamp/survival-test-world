@@ -1,5 +1,7 @@
 # TSS Survival Test World
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 > The world used to test the [TSS Survival Plugin](https://github.com/TheSlimySwamp/survival-plugin).
 
 ## License
